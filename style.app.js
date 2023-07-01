@@ -22,7 +22,8 @@ const style = StyleSheet.create({
         marginVertical: 50,
         alignItems: 'center',
         justifyContent: 'center',
-        marginHorizontal: 15
+        marginHorizontal: 20,
+        textAlign: 'center'
     },
     textDetail: {
         fontSize: 18,
@@ -51,8 +52,46 @@ const style = StyleSheet.create({
     viewButton: {
         flexDirection: 'row',
         justifyContent: 'center',
-        marginVertical: 200
+        marginTop: 100,
 
-    }
+
+
+    },
+    footer: {
+
+        marginHorizontal: 20,
+        justifyContent: 'center',
+        alignItems: 'center',
+        marginTop: 50,
+        borderTopWidth: 0.3,
+        borderBottomColor: '#B8B8B8',
+
+
+    },
+    longText: {
+
+        fontSize: 16,
+        justifyContent: 'center',
+        alignItems: 'center',
+        textAlign: 'center',
+        fontWeight: '300',
+        paddingTop: 10
+    },
+    copy: {
+        marginTop: 20,
+        marginBottom: 20,
+        fontSize: 18,
+        fontWeight: '400',
+
+    },
+    viewHeader: {
+        marginTop: 20,
+        flexDirection: 'row',
+        height: 100,
+        alignItems: 'center',
+        justifyContent: 'space-between',
+
+    },
+
 })
 export default style

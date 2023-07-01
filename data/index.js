@@ -1,22 +1,17 @@
 export default [{
     id: 1,
-    like: 0,
-    dontLike: 0,
-    title: 'joke 1',
-    detail: 'A child asked his father, "How were people born So his father said, "Adam and Eve made babies, then their babies became adults and made babies, and so on."The child then went to his mother, asked her the same question and she told him, "We were monkeys then we evolved to become like we are now."The child ran back to his father and said, "You lied to me!"His father replied, "No, your mom was talking about her side of the family."'
+    title: 'Short joke 1: Lawyer story',
+    detail: "A lawyer had just opened the door of a BMW and walked down the street, when suddenly another car sped past and fanned the door of the BMW. When the police arrived at the scene, he saw him jumping up and looking very angry, seeing the policeman he complained loudly:'Look, they ve done so much damage to my new BMW.The policeman observed the scene and said:- You lawyers only consider material things first! He only cares about this diseased BMW, but he doesn't know that his left arm has also been ripped off!"
 },
 {
     id: 2,
-    like: 0,
-    dontLike: 0,
-    title: 'joke 2',
-    detail: '“I’d like to start with the chimney jokes – I’ve got a stack of them. The first one is on the house.” – Tim Vine As a scarecrow, people say I’m outstanding in my field. But hay – it’s in my jeans.“The best time to add insult to injury is when you’re signing somebody’s cast.” – Demetri Martin“Years ago I used to supply Filofaxes for the mafia. I was involved in very organised crime.” – Milton Jones“I had a dream last night that I was cutting carrots with the Grim Reaper – dicing with death.” – Tim Vine'
+    title: 'Short Jokes 2: Intelligence test',
+    detail: "The teacher checks the student's IQ.teacher asked: Who is the child of your parents, but not your biological brother?Ti replied:That's me, Ti. The teacher is very satisfied.Teo's turn, the teacher also asked: Who is the child of your parents but not your biological brother?. Teo scratched his head and scratched his ears: Let me go home and think.When he got home, he couldn't think of anything, so he went to ask him: Who is your parent's child but not your biological sibling?. Tieu immediately replied: That's Tio, who else is there?The next day, Teo excitedly went to class to show off to the teacher like a nail: I know who it is, it's my friend Teo The teacher muttered: Why is that, it must be Ti?"
 },
 {
     id: 3,
-    like: 0,
-    dontLike: 0,
-    title: 'joke 3',
-    detail: '“My New Year’s resolution is to get in shape. I choose round.” – Sarah Millican “My wife – it’s difficult to say what she does. She sells seashells on the seashore.” – Milton Jones What did the left eye say to the right eye? Between you and me, something smells. “I told the Inland Revenue I don’t owe them a penny. I live by the seaside.” – Ken Dodd My wife told me I had to stop acting like a flamingo. So I had to put my foot down. “I needed a password eight characters long, so I picked Snow White and the Seven Dwarves.” – Nick Helm'
-}
+    title: 'Short Jokes 3: Marriage Story',
+    detail: "A wife who is disappointed about her husband coming home late from work should confide in her friend. She advised: “Instead of berating him, say sweet words and greet him with a kiss. Maybe he'll change. That night, the husband came home late, the wife hurriedly opened the door, helped him into the room, covered him with a cold towel and took off his shoes. While massaging, the wife whispered in her husband's ear: Honey, it's late, let's go upstairs to sleep. The drunk husband replied, “Yes, that's fine. Either way, my wife and children will not forgive…”"
+},
+
 ]
